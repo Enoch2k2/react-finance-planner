@@ -1,0 +1,29 @@
+ul li {
+  display: inline-block;
+  padding: 15px;
+}
+
+ul {
+  float: right;
+  margin: 0;
+}
+
+.nav-brand {
+  font-size: 20px;
+  float: left;
+  padding: 15px;
+}
+
+nav {
+  background: green;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  font-weight: 700;
+}
+
+nav a:hover {
+  color: lightgreen;
+}
